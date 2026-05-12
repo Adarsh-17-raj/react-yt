@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Card from './assets/component/Card'
 
 const App = () => {
